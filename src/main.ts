@@ -1,5 +1,3 @@
-import './style.css'
-console.log('Hello')
 
 const myInput: HTMLInputElement | null = document.getElementById('input') as HTMLInputElement;
 const myButton: HTMLButtonElement | null = document.querySelector('#add');
